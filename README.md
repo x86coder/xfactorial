@@ -2,6 +2,8 @@
 
 Sample code with Golang to use multiple threads to distribute the work along processor cores.
 
+![go](doc/images/program.png)
+
 ## Usage
 - Run application as **xfactorial {number}**
 
